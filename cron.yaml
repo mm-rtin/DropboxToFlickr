@@ -1,0 +1,4 @@
+cron:
+- description: dropbox to flickr daily
+  url: /startapp/
+  schedule: every 1 minutes

@@ -1,0 +1,35 @@
+@import "fluid.less";
+
+/* BASE STYLES
+-----------------------------------------------------------*/
+@textColor: #1f2427;
+@boldColor: #354f60;
+@backgroundColor: lighten(desaturate(@textColor, 2%), 50%);
+
+.boxModelFix {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing:
+    border-box; box-sizing: border-box;
+}
+
+
+html {
+
+}
+
+body {
+    background-color: @backgroundColor;
+    padding-bottom: 40px;
+    padding-top: 60px;
+    color: @textColor;
+    text-align: center;
+}
+
+::-moz-selection { background: #ffffff; color: @textColor; text-shadow: none; }
+::selection { background: #ffffff; color: @textColor; text-shadow: none; }
+
+#content {
+    margin: 0px auto;
+    text-align: left;
+    width: 1350px;
+}
