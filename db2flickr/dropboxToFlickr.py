@@ -10,7 +10,7 @@ import flickrapi.shorturl
 
 import logging
 
-from db2flickr.models import UploadHistory, ApiKeys
+from db2flickr.models import UploadHistory, ApiKeys, Photosets
 
 # KEYNAMES
 DROPBOX_APP_KEY = 'DROPBOX_APP_KEY'
@@ -102,6 +102,48 @@ def getKey(keyName):
             apiKey = None
 
     return apiKey
+
+
+# savePhotoset
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+def savePhotoset(photosetTitle, photosetID):
+
+    photoset = Photosets(
+        photosetTitle=photosetTitle,
+        photosetID=photosetID
+    )
+    photoset.save()
+
+    # save to memcache
+    if not memcache.add(photosetTitle, photosetID):
+
+        # update memcache
+        memcache.set(key=photosetTitle, value=photosetID)
+
+
+# getPhotoset
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+def getPhotoset(photosetTitle):
+
+    # find key in memcache
+    photosetID = memcache.get(photosetTitle)
+
+    # photosetTitle not found in memcache
+    if not photosetID:
+
+        # fetch from Photosets table
+        try:
+            photosetRecord = Photosets.objects.get(photosetTitle=photosetTitle)
+            # save to memcache
+            if not memcache.add(photosetRecord.photosetTitle, photosetRecord.photosetID):
+                logging.error('memcache set failed')
+
+            photosetID = photosetRecord.photosetID
+
+        except Photosets.DoesNotExist:
+            photosetID = None
+
+    return photosetID
 
 
 # getUploadHistory
@@ -313,11 +355,11 @@ def transferToFlickr(request):
             response = flickrClient.upload(mediaObject['url'], callback=None, tags=mediaObject['tags'], is_public='1', content_type='2', hidden='1')
 
             # get short url
-            photoid = response.find('photoid').text
-            shortURL = flickrapi.shorturl.url(photoid)
+            photoID = response.find('photoid').text
+            shortURL = flickrapi.shorturl.url(photoID)
 
             # upload complete
-            flickrUploadComplete(dropboxClient, shortURL, mediaObject['filename'], mediaObject['url'])
+            flickrUploadComplete(dropboxClient, flickrClient, photoID, shortURL, mediaObject['filename'], mediaObject['url'], mediaObject['tags'])
 
         return HttpResponse(mediaObjects, mimetype='text', status='200')
 
@@ -330,7 +372,7 @@ def transferToFlickr(request):
 
 # flickrUploadComplete
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-def flickrUploadComplete(dropboxClient, flickrURL, dropboxFilename, dropboxURL):
+def flickrUploadComplete(dropboxClient, flickrClient, photoID, flickrURL, dropboxFilename, dropboxURL, tag):
 
     logging.info('------ UPLOAD COMPLETE -------')
     logging.info(flickrURL)
@@ -345,3 +387,52 @@ def flickrUploadComplete(dropboxClient, flickrURL, dropboxFilename, dropboxURL):
 
     # delete file on dropbox
     dropboxClient.file_delete(dropboxFilename)
+
+    # create photoset or add photo to existing photoset
+    addPhotoToSet(flickrClient, tag, photoID)
+
+
+def addPhotoToSet(flickrClient, photosetTitle, photoID):
+
+    # find existing photoset
+    photosetID = getPhotoset(photosetTitle)
+
+    # create new photoset
+    if photosetID == None:
+
+        # create photoset
+        response = flickrClient.photosets_create(title=photosetTitle, primary_photo_id=photoID)
+
+        photoset = response.find('photoset')
+        photosetID = photoset.attrib['id']
+
+        # save photoset
+        savePhotoset(photosetTitle, photosetID)
+
+        logging.info('------ PHOTO SET CREATED -------')
+        logging.info(photosetID)
+        logging.info('------------------------------')
+        logging.info('------------------------------')
+
+    # add photo to existing photoset
+    else:
+
+        success = addImageToPhotoset(flickrClient, photoID, photosetID)
+
+        if success:
+            logging.info('------ PHOTO ADDED TO SET -------')
+            logging.info(photosetID)
+            logging.info('------------------------------')
+            logging.info('------------------------------')
+
+
+def addImageToPhotoset(flickrClient, photoid, photosetID):
+
+    response = flickrClient.photosets_addPhoto(photoset_id=photosetID, photo_id=photoid)
+
+    status = response.attrib['stat']
+
+    if status == 'ok':
+        return True
+    else:
+        return False

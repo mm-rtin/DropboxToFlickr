@@ -18,3 +18,12 @@ class ApiKeys(models.Model):
 
     class Meta:
         verbose_name_plural = 'ApiKeys'
+
+
+# PHOTOSETS
+class Photosets(models.Model):
+    photosetTitle = models.CharField(max_length=1024)
+    photosetID = models.IntegerField(max_length=32)
+
+    class Meta:
+        verbose_name_plural = 'Photosets'

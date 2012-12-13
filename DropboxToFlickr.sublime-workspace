@@ -1,0 +1,1366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"critiqueIm",
+				"critiqueImageList	(local, instance)"
+			],
+			[
+				"c",
+				"cgroupname  (variable)"
+			],
+			[
+				"good",
+				"goodAtListTagString"
+			],
+			[
+				"comp",
+				"competitionContainer"
+			],
+			[
+				"giant",
+				"giantbombSearchRequest"
+			],
+			[
+				"pending",
+				"pendingRequests"
+			],
+			[
+				"pla",
+				"placeholderItem"
+			],
+			[
+				"ini",
+				"initialLoad"
+			],
+			[
+				"prog",
+				"progressPercent"
+			],
+			[
+				"pr",
+				"progress"
+			],
+			[
+				"req",
+				"requestCount"
+			],
+			[
+				"getAma",
+				"getAmazonItemOffersLimited"
+			],
+			[
+				"metasc",
+				"metascoreRequest"
+			],
+			[
+				"siteGuide",
+				"siteGuideCurrentStep"
+			],
+			[
+				"cancel",
+				"cancelImport"
+			],
+			[
+				"source",
+				"sourceImportStarted"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"importResults",
+				"importResultsBody"
+			],
+			[
+				"importCo",
+				"importConfigModal"
+			],
+			[
+				"searchAma",
+				"searchAmazonRequest"
+			],
+			[
+				"import",
+				"importXBL_btn"
+			],
+			[
+				"filter",
+				"filterListResults"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"disp",
+				"displayGametrailersPage"
+			],
+			[
+				"listResults",
+				"listResultsContainer"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"listTab",
+				"listTabScrollPosition"
+			],
+			[
+				"listResu",
+				"listResultsContainer"
+			],
+			[
+				"UPC",
+				"UPCOMING_LIST_BUCKET	(global, instance)"
+			],
+			[
+				"displ",
+				"displayStamp	(local, instance)"
+			],
+			[
+				"GT_",
+				"GT_PROMOTION_ID	(global, instance)"
+			],
+			[
+				"GAME",
+				"GAMESTATS"
+			],
+			[
+				"dropdown",
+				"dropdown-menu"
+			],
+			[
+				"hide",
+				"hideSiteGuide"
+			],
+			[
+				"addItemTo",
+				"addItemToTagRequest"
+			],
+			[
+				"meta",
+				"metascoreRequest"
+			],
+			[
+				"metascore",
+				"metascorePage"
+			],
+			[
+				"comm",
+				"commonString"
+			],
+			[
+				"cha",
+				"changeItemViewMode"
+			],
+			[
+				"showDis",
+				"showDiscussionButton"
+			],
+			[
+				"standard",
+				"standardName"
+			],
+			[
+				"DIS",
+				"DISQUS_PUBLIC_KEY	(global, instance)"
+			],
+			[
+				"detail",
+				"detailContainer"
+			],
+			[
+				"current",
+				"currentTagArray"
+			],
+			[
+				"getTag",
+				"getTagName"
+			],
+			[
+				"selected",
+				"selectedTagIDs"
+			],
+			[
+				"filterType",
+				"filterTypeFieldText"
+			],
+			[
+				"appl",
+				"applyFilters"
+			],
+			[
+				"currentSort",
+				"currentSortIndex"
+			],
+			[
+				"sortType",
+				"sortTypeField"
+			],
+			[
+				"addList",
+				"addListContainer"
+			],
+			[
+				"signup",
+				"signup_failed"
+			],
+			[
+				"platformFil",
+				"platformFilters"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"USER_LOG",
+				"USER_LOGOUT_URL"
+			],
+			[
+				"sec",
+				"secret_key"
+			],
+			[
+				"sign",
+				"signupButton"
+			],
+			[
+				"itemDetail",
+				"itemDetailInfo"
+			],
+			[
+				"searchA",
+				"searchAmazonID"
+			],
+			[
+				"success",
+				"successMethod"
+			],
+			[
+				"getMeta",
+				"getMetascoreQueue"
+			],
+			[
+				"amazonItem",
+				"amazonItemCache"
+			],
+			[
+				"currentVi",
+				"currentVideoSet"
+			],
+			[
+				"currentVideo",
+				"currentVideoCount"
+			],
+			[
+				"previousVi",
+				"previousVideoIndex"
+			],
+			[
+				"PANEL",
+				"PANEL_HEIGHT_OFFSET_INFO"
+			],
+			[
+				"VIDO",
+				"VIDEOS_PER_SET"
+			],
+			[
+				"currentV",
+				"currentVideoCount"
+			],
+			[
+				"showVid",
+				"showVideoListNavigation"
+			],
+			[
+				"change",
+				"changeVideoSet"
+			],
+			[
+				"videoList",
+				"videoListNavigation"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"videoJS",
+				"videoJSPLayer"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"USER",
+				"USER_UPDATE_PASSWORD_URL"
+			],
+			[
+				"ITEM_U",
+				"ITEM_UPDATE_URL"
+			],
+			[
+				"wallPaper",
+				"wallpaperName	(local, instance)"
+			],
+			[
+				"wallp",
+				"wallpaperLink	(local, instance)"
+			],
+			[
+				"wal",
+				"wallpaperLink	(local, instance)"
+			],
+			[
+				"resetPa",
+				"resetpasswordModal"
+			],
+			[
+				"resetPass",
+				"resetpassword-modal"
+			],
+			[
+				"accou",
+				"accountExistsTag"
+			],
+			[
+				"inval",
+				"invalidLoginTag"
+			],
+			[
+				"error",
+				"errorAlert"
+			],
+			[
+				"requ",
+				"requestData"
+			],
+			[
+				"remember",
+				"rememberMe"
+			],
+			[
+				"tagName",
+				"tagNameField"
+			],
+			[
+				"mem",
+				"memcacheKey	(local, instance)"
+			],
+			[
+				"deleteListC",
+				"deleteListConfirm_btn"
+			],
+			[
+				"storedItems",
+				"storedItemsCacheByTag"
+			],
+			[
+				"check",
+				"checkSaveItemStatus"
+			],
+			[
+				"initia",
+				"initialItemTags"
+			],
+			[
+				"init",
+				"initialItemTags"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"stored",
+				"storedTagObject"
+			],
+			[
+				"cach",
+				"cacheItemsByTag"
+			],
+			[
+				"deleteList",
+				"deleteList_btn"
+			],
+			[
+				"items",
+				"itemsReturnedData"
+			],
+			[
+				"listRe",
+				"listReturnedData"
+			],
+			[
+				"render",
+				"renderMethod"
+			],
+			[
+				"previou",
+				"previousMetascorePage"
+			],
+			[
+				"ran",
+				"randomIndex"
+			],
+			[
+				"list",
+				"listPlatform"
+			],
+			[
+				"searchP",
+				"searchPlatform"
+			],
+			[
+				"dis",
+				"displayOptions"
+			],
+			[
+				"viewList",
+				"viewListChanged"
+			],
+			[
+				"logged",
+				"loggedInButton"
+			],
+			[
+				"curren",
+				"currentTab"
+			],
+			[
+				"up",
+				"upcomingListViewed"
+			],
+			[
+				"info",
+				"infoHeader"
+			],
+			[
+				"signUp",
+				"signupButton"
+			],
+			[
+				"fun",
+				"function	empty function"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"background-",
+				"background-position-x"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"provider",
+				"providerID"
+			],
+			[
+				"set",
+				"setQuickAttribute"
+			],
+			[
+				"listDis",
+				"listDisplayType"
+			],
+			[
+				"metacri",
+				"metacriticPage"
+			],
+			[
+				"metas",
+				"metascorePage	(local, instance)"
+			],
+			[
+				"response",
+				"response_group"
+			],
+			[
+				"bucket",
+				"bucketName	(global, instance)"
+			],
+			[
+				"parse",
+				"parseGameStatsListByGPM"
+			],
+			[
+				"curre",
+				"currentViewTagID"
+			],
+			[
+				"update",
+				"updateViewList"
+			],
+			[
+				"tagI",
+				"tagIDsAdded"
+			],
+			[
+				"play",
+				"playStatusFiltered"
+			],
+			[
+				"gameSt",
+				"gameStatusFilter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"css ",
+				"Set Syntax: CSS"
+			],
+			[
+				"set sy cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set ",
+				"Set Syntax: CSS"
+			],
+			[
+				"ajax",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"console",
+				"Snippet: console.info"
+			],
+			[
+				"set sy",
+				"Set Syntax: CSS"
+			],
+			[
+				"styleshe",
+				"Snippet: link - stylesheet"
+			],
+			[
+				"LIST PA",
+				"Package Control: List Packages"
+			],
+			[
+				"comment",
+				"JSDocs: Decorate line comment"
+			],
+			[
+				"quote",
+				"ChangeQuotes"
+			],
+			[
+				"rope",
+				"Rope: New Project"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Background Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Background Linting"
+			],
+			[
+				"linte",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"python",
+				"Set Syntax: Python Django"
+			],
+			[
+				"",
+				"Clipboard History"
+			],
+			[
+				"django",
+				"Set Syntax: Python Django"
+			],
+			[
+				"dj",
+				"Set Syntax: Python Django"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcage",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 426.0
+	},
+	"console":
+	{
+		"height": 82.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Projects/DropboxToFlickr/.gitignore",
+		"/E/Projects/DropboxToFlickr/db2flickr/models.py",
+		"/E/Projects/DropboxToFlickr/db2flickr/dropboxToFlickr.py",
+		"/C/Users/Hexvector/Desktop/DropboxToFlickr/.gitignore",
+		"/E/Temp/flickrapi-1.4.2/flickrapi-1.4.2/flickrapi/__init__.py",
+		"/E/Temp/Splash Pro EX 1.13.0 Incl Serial [NepsterJay]/Splash Pro EX 1.13.0 Incl Serial [NepsterJay]/key.txt",
+		"/E/Temp/medal of honor warfighter/Medal_of_Honor_Warfighter_Blackbunny/Medal_of_Honor_Warfighter/DVD1/fairlight.nfo",
+		"/E/Temp/MOST WANTED LAN CONNECTION  FIX/ MOST WANTED LAN CONNECTION  FIX/README.txt",
+		"/E/Programs/Need For Speed World/readme.txt",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/static/stylesheets/foundation.css",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/static/stylesheets/app.css",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/urls.py",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/home/views.py",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/home/templates/home/index.html",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/home/models.py",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/settings.py",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/marketplace/models.py",
+		"/X/lm_svn/checkouts/33/localmotors/localmotors/static/javascripts/app.js",
+		"/E/Temp/foundation.custom/foundation/javascripts/jquery.foundation.accordion.js",
+		"/E/Temp/foundation.custom/foundation/javascripts/jquery.foundation.clearing.js",
+		"/C/Users/Hexvector/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Hexvector/AppData/Roaming/Sublime Text 2/Packages/WordHighlight/Word Highlight.sublime-settings",
+		"/C/Users/Hexvector/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Hexvector/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"//mmartin/mmartin/lm_svn/checkouts/22/modules/select2/select2.php",
+		"//mmartin/mmartin/lm_svn/checkouts/22/templates/lm_competition_body.tpl",
+		"//mmartin/mmartin/lm_svn/checkouts/22/css/lm_onboarding.css",
+		"//mmartin/mmartin/lm_svn/checkouts/22/templates/lm_onboarding_body.tpl",
+		"//mmartin/mmartin/lm_svn/checkouts/22/modules/profileCard/profileCard.js",
+		"//mmartin/mmartin/lm_svn/checkouts/22/js/lm_onboarding.js",
+		"//mmartin/mmartin/lm_svn/checkouts/22/pages/onboarding.php",
+		"//mmartin/mmartin/lm_svn/checkouts/22/pages/loginRegister.php",
+		"//mmartin/mmartin/lm_svn/checkouts/22/pages/profile.php",
+		"//mmartin/mmartin/lm_svn/checkouts/22/web_ajax/taggingAjax.php",
+		"/E/Dropbox/Backup/Tab Mix Plus Preferences.txt",
+		"/E/Dropbox/Configuration/synergy.conf",
+		"//mmartin/mmartin/lm_svn/checkouts/22/pages/competition.php",
+		"//mmartin/mmartin/lm_svn/checkouts/22/js/lm_competition.js",
+		"//mmartin/mmartin/lm_svn/checkouts/22/js/onboarding.js",
+		"//mmartin/mmartin/lm_svn/checkouts/22/js/lm_project.js",
+		"//mmartin/mmartin/lm_svn/checkouts/22/modules/select2/bootstrap-popover.php",
+		"//MMARTIN/mmartin/lm_svn/checkouts/22/modules/select2/select2.js",
+		"/E/Temp/ivaynberg-select2-release-1.0-395-g6e64336/ivaynberg-select2-6e64336/select2.js",
+		"//mmartin/mmartin/lm_svn/checkouts/22/lm_includes/onboardingClass.php",
+		"//mmartin/mmartin/lm_svn/checkouts/22/templates/lm_s_onboarding_location.tpl",
+		"/E/Dropbox/Backup/synergy.conf",
+		"//MMARTIN/checkouts/testing/modules/galleria/galleria.js",
+		"//MMARTIN/checkouts/testing/templates/lm_competition_s_idea.tpl",
+		"//MMARTIN/checkouts/testing/templates/lm_competition_s_overview.tpl",
+		"//MMARTIN/checkouts/testing/pages/competition.php",
+		"//MMARTIN/checkouts/testing/lm_includes/contest2Class.php",
+		"//MMARTIN/checkouts/testing/css/lm_competition.css",
+		"//MMARTIN/checkouts/testing/templates/lm_competition_body.tpl",
+		"//MMARTIN/checkouts/testing/css/lm_dominos_id.css",
+		"//MMARTIN/checkouts/testing/templates/lm_competition_s_admin.tpl",
+		"//MMARTIN/checkouts/testing/templates/lm_competition_s_menu.tpl",
+		"//MMARTIN/checkouts/testing/js/lm_competition.js",
+		"/C/Users/Hexvector/Desktop/Keys/authorized_keys",
+		"/C/Users/Hexvector/Desktop/VM/install_guide.txt",
+		"/C/Users/Hexvector/Desktop/VM/vmupgrade.sh",
+		"/C/Users/Hexvector/Desktop/VM/vmdownload.sh",
+		"/C/Users/Hexvector/Desktop/VM/first_install.sh",
+		"//MMARTIN/checkouts/89/templates/lm_competition_body.tpl",
+		"/E/Temp/Mass Effect 3 Leviathan DLC RELOADED-1/Mass.Effect.3.Leviathan.DLC-RELOADED/reloaded.nfo",
+		"/E/Temp/Mass Effect 3 Leviathan DLC RELOADED-1/Mass.Effect.3.Leviathan.DLC-RELOADED/Mass.Effect.3.Leviathan.DLC-RELOADED.nfo",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/tmzAPI.py",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_tagData.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_metacritic.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_giantbomb.js",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/searchAPI.py",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_itemView.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_siteView.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/jquery.bootstrap-dropdown-sub-menu.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/grunt.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_videoPanel.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_detailView.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_user.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_itemData.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_amazon.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_itemLinker.js",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/gameSources.py",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_util.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_searchView.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_importView.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/less/tmz.less",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/templates/index.html",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_storage.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_wikipedia.js",
+		"/C/Users/Hexvector/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Hexvector/AppData/Roaming/Sublime Text 2/Packages/Monokai Dark.tmTheme",
+		"/C/Users/Hexvector/AppData/Roaming/Sublime Text 2/Packages/CSScomb/README.md",
+		"/E/Temp/twitter-bootstrap-v2.1.1-0-gc52368d/twitter-bootstrap-c52368d/less/sprites.less",
+		"/E/Projects/Gamedex/Gamedex-Frontend/css/bootstrap.min.css",
+		"/E/Temp/FortAwesome-Font-Awesome-2.0.0-25-gee55c85 (1)/FortAwesome-Font-Awesome-ee55c85/css/font-awesome.css",
+		"/E/Projects/Gamedex/Gamedex-Frontend/less/font-awesome.less",
+		"/E/Temp/FortAwesome-Font-Awesome-2.0.0-25-gee55c85 (1)/FortAwesome-Font-Awesome-ee55c85/README.md",
+		"/E/Temp/bootstrap (1)/bootstrap/js/bootstrap.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/css/bootstrap.css",
+		"/E/Projects/Gamedex/Gamedex-Frontend/dist/lib.min.js",
+		"/E/Temp/cade2e6a1d02463e42fc26452ba66486/sprites.css",
+		"/E/Projects/Gamedex/Gamedex-Frontend/less/sprites.less",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_itemCache.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_releasedList.js",
+		"/E/Projects/Gamedex/Gamedex-Backend/app.yaml",
+		"/E/Projects/Gamedex/Gamedex-Frontend/lib/underscore-ratelimit.js",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/listSources.py",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_tagView.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/dist/lib.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/css/bootstrap-removed.css",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/css/tmz.css",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_filterPanel.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/dist/scripts.js",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/keys.py",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/models.py",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/authentication.py",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/management.py",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/views.py",
+		"/E/Projects/Gamedex/Gamedex-Backend/urls.py",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/dataManager.py",
+		"/E/Temp/6b52e6554e8ff46bf2fa76e0be87447c/sprites.css",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/gameSources",
+		"/E/Projects/Gamedex/Gamedex-Frontend/css/bootstrap-2.1.css",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/templates/authentication.py",
+		"/E/Projects/Gamedex/Gamedex-Backend/tmz/tests.py",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_ign.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_gametrailers.js",
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/init.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"\\\\mmartin\\mmartin\\lm_svn\\checkouts\\22",
+			"\\\\MMARTIN\\checkouts\\22",
+			"\\\\MMARTIN\\checkouts\\89",
+			"\\\\MMARTIN\\checkouts\\trunk",
+			"\\\\MMARTIN\\checkouts\\testing",
+			"E:\\Projects\\Gamedex\\Gamedex-Frontend\\js",
+			"E:\\Projects\\Gamedex",
+			"E:\\Projects\\Gamedex\\Gamedex-Backend\\tmz",
+			"E:\\Projects\\Gamedex",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd\\",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd\\js",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_Frontend",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_GAE",
+			"\n",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_GAE",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_GAE\\tmz",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_GAE\\",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd\\",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd\\less\\bootstrap",
+			"E:\\Projects\\T_MinusZero\\T_MinusZero_FrontEnd",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getOrCreatePhotoset",
+			"createPhotoset",
+			"photoid",
+			"photoset",
+			"apiKey",
+			"ApiKey",
+			"apiKey",
+			"ApiKey",
+			"apiKey",
+			"getKey",
+			"ApiKeys",
+			"keyValue",
+			"setKey",
+			"1024",
+			"keyValue",
+			"photoset",
+			"TEMPLATE",
+			"twelve",
+			"two",
+			"value",
+			"one",
+			"p",
+			"critique",
+			"critiqueGroupDictionary",
+			"avatar",
+			"span",
+			"li",
+			"comment",
+			"content",
+			"p",
+			"300",
+			"lft",
+			"image",
+			"lastcritiqueid",
+			"lastCritiqueID",
+			"project",
+			"projectName",
+			"projectDictionary",
+			"critqueDescription",
+			"Li",
+			"li",
+			"ul",
+			"useridlink",
+			"ForeignKey",
+			"# Field name made lowercase.",
+			"javascripts",
+			"home",
+			"TEMPLATE",
+			"h1",
+			"INSTALLED_APPS",
+			"INTERNAL",
+			"log",
+			"Users",
+			"comment",
+			"sublimelinter_mark_style",
+			"text",
+			"'u'",
+			"getProfileCardData",
+			"enthusiastBtn",
+			"484848",
+			"\"btn\"",
+			"btn",
+			"Btn",
+			"btn",
+			"Btn",
+			"btn",
+			"alignedElement",
+			"onboardingInput",
+			"h2",
+			"top",
+			"tags",
+			"div",
+			"#p",
+			"-a",
+			"render",
+			"null",
+			",",
+			";",
+			"competition",
+			"initSelect2",
+			"initBadgeModal",
+			"ProfileCard",
+			"PROFILECARD",
+			"ProfileCard",
+			"PROFILECARD",
+			"ProfileCard",
+			"profileCard",
+			"ProfileCard",
+			"PROFILECARD",
+			"ProfileCard",
+			".js",
+			"skipStepBtn",
+			"automotiveEnthusiast",
+			"skipStepBtn",
+			"onboardingHeader",
+			".css",
+			"FEATURED_LIST",
+			"newsItemTemplate",
+			"$template",
+			"lm_admin",
+			"Competition",
+			"competition",
+			"COMPETITION",
+			"competition",
+			"COMPETITION",
+			"competition",
+			"Competition",
+			"competition",
+			"Competition",
+			"competition",
+			"Competition",
+			"competition",
+			"Competition",
+			"COMPETITION",
+			"competition",
+			"Competition",
+			"competition",
+			"COMPETITION",
+			"competition",
+			"onboardingClass.php",
+			"lm_s_onboarding_location",
+			"Laptop",
+			"iMac",
+			"Desktop1",
+			"iMac",
+			"Laptop",
+			"startVotingTab_btn",
+			"entriesTab_btn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Utilities.",
+			"Utilities.SEARCH_PROVIDERS",
+			"getProviders",
+			"import json",
+			"json",
+			"getUserCredentials",
+			"",
+			"tagData",
+			"TagData",
+			"TagView",
+			"tagView",
+			"\ntmz.module('listView')",
+			"// console",
+			"",
+			"getDirectoryItemByItemID",
+			"deleteSingleTagForItem",
+			"// console.info",
+			"deleteItem",
+			"ItemData.updateListDeletions",
+			"ItemData.updateListAdditions",
+			"// console.info",
+			"'metacritic'",
+			"var Metacritic",
+			"Metacritic.",
+			"'amazon'",
+			"var Amazon",
+			"Amazon.formatOfferData",
+			"Amazon.getAmazonItemOffers",
+			"Amazon.getAmazonItemDetail",
+			"Amazon.parseAmazonResultItem",
+			"Amazon.searchAmazon",
+			"Utilities.matchPlatformToIndex",
+			"Utilities.getStandardPlatform",
+			"uk:",
+			"addItemDataToDirectory",
+			"getItemDataFromDirectory",
+			"formatOfferData",
+			"// console.info",
+			"getGiantBombItemData",
+			"item_metacriticPage",
+			"metascore",
+			"Metascore",
+			"getMetaScore",
+			"ItemLinker.standardizeTitle",
+			"// console.error",
+			"// console.info",
+			"~",
+			"*",
+			"~",
+			"*",
+			"~",
+			"*",
+			"POST"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.95983935743,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"template",
+				"localmotors/localmotors/home/templates/home/index.html"
+			],
+			[
+				"compet.php",
+				"pages/competition.php"
+			],
+			[
+				"profile.php",
+				"pages/profile.php"
+			],
+			[
+				"profilecard",
+				"modules/profileCard/profileCard.js"
+			],
+			[
+				"lm_compet",
+				"js/lm_competition.js"
+			],
+			[
+				"profilecard.js",
+				"modules/profileCard/profileCard.js"
+			],
+			[
+				"project.js",
+				"js/lm_project.js"
+			],
+			[
+				"compet.js",
+				"js/lm_competition.js"
+			],
+			[
+				"competbodytpl",
+				"templates/lm_competition_body.tpl"
+			],
+			[
+				"compet",
+				"js/lm_competition.js"
+			],
+			[
+				"onboarding.p",
+				"lm_includes/onboardingClass.php"
+			],
+			[
+				"onboard",
+				"templates/lm_s_onboarding_location.tpl"
+			],
+			[
+				"loginre",
+				"pages/loginRegister.php"
+			],
+			[
+				"taggingajax",
+				"web_ajax/taggingAjax.php"
+			],
+			[
+				"competitionjs",
+				"js/lm_competition.js"
+			],
+			[
+				"compedit",
+				"templates/lm_competition_s_admin.tpl"
+			],
+			[
+				"domin",
+				"css/lm_dominos_id.css"
+			],
+			[
+				"competcss",
+				"css/lm_competition.css"
+			],
+			[
+				"competitionover",
+				"templates/lm_competition_s_overview.tpl"
+			],
+			[
+				"competition_s",
+				"templates/lm_competition_s_idea.tpl"
+			],
+			[
+				"competbody",
+				"templates/lm_competition_body.tpl"
+			],
+			[
+				"contest2",
+				"lm_includes/contest2Class.php"
+			],
+			[
+				"competjs",
+				"js/lm_competition.js"
+			],
+			[
+				"comp",
+				"pages/competition.php"
+			],
+			[
+				"grunt",
+				"Gamedex-Frontend/grunt.js"
+			],
+			[
+				"tmzapi",
+				"T_MinusZero_GAE/tmz/tmzAPI.py"
+			],
+			[
+				"url",
+				"T_MinusZero_GAE/urls.py"
+			],
+			[
+				"itemdata",
+				"T_MinusZero_FrontEnd/js/tmz_itemData.js"
+			],
+			[
+				"detav",
+				"T_MinusZero_FrontEnd/js/tmz_detailView.js"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"meta",
+				"T_MinusZero_FrontEnd/js/tmz_metacritic.js"
+			],
+			[
+				"detailview",
+				"T_MinusZero_FrontEnd/js/tmz_detailView.js"
+			],
+			[
+				"filterpan",
+				"T_MinusZero_FrontEnd/js/tmz_filterPanel.js"
+			],
+			[
+				"filterpanel",
+				"T_MinusZero_FrontEnd/js/tmz_filterPanel.js"
+			],
+			[
+				"detailv",
+				"T_MinusZero_FrontEnd/js/tmz_detailView.js"
+			],
+			[
+				"detail",
+				"T_MinusZero_GAE/django/views/generic/detail.py"
+			],
+			[
+				"storage",
+				"T_MinusZero_FrontEnd/js/tmz_storage.js"
+			],
+			[
+				"user",
+				"T_MinusZero_FrontEnd/js/tmz_user.js"
+			],
+			[
+				"siteview",
+				"T_MinusZero_FrontEnd/js/tmz_siteView.js"
+			],
+			[
+				"in",
+				"T_MinusZero_GAE/tmz/templates/index.html"
+			],
+			[
+				"index",
+				"T_MinusZero_GAE/tmz/templates/index.html"
+			],
+			[
+				"listmo",
+				"T_MinusZero_FrontEnd/js/tmz_listModel.js"
+			],
+			[
+				"listdata",
+				"T_MinusZero_FrontEnd/js/tmz_listData.js"
+			],
+			[
+				"itemview",
+				"T_MinusZero_FrontEnd/js/tmz_itemView.js"
+			],
+			[
+				"listmod",
+				"T_MinusZero_FrontEnd/js/tmz_listModel.js"
+			],
+			[
+				"listda",
+				"T_MinusZero_FrontEnd/js/tmz_listData.js"
+			],
+			[
+				"gri",
+				"T_MinusZero_FrontEnd/js/tmz_gridView.js"
+			],
+			[
+				"tmz_a",
+				"T_MinusZero_FrontEnd/js/tmz_amazon.js"
+			],
+			[
+				"list",
+				"T_MinusZero_GAE/django/views/generic/list_detail.py"
+			],
+			[
+				"sear",
+				"T_MinusZero_FrontEnd/js/tmz_searchView.js"
+			],
+			[
+				"deta",
+				"tmz/templates/js/tmz_detailView.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}
