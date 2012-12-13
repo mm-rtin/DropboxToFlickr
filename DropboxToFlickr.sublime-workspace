@@ -716,6 +716,8 @@
 	},
 	"file_history":
 	[
+		"/E/Projects/uidevtest/src/html/index.html",
+		"/E/Projects/Gamedex/Gamedex-Backend/.gitignore",
 		"/E/Projects/DropboxToFlickr/.gitignore",
 		"/E/Projects/DropboxToFlickr/db2flickr/models.py",
 		"/E/Projects/DropboxToFlickr/db2flickr/dropboxToFlickr.py",
@@ -841,9 +843,7 @@
 		"/E/Projects/Gamedex/Gamedex-Frontend/css/bootstrap-2.1.css",
 		"/E/Projects/Gamedex/Gamedex-Backend/tmz/templates/authentication.py",
 		"/E/Projects/Gamedex/Gamedex-Backend/tmz/tests.py",
-		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_ign.js",
-		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_gametrailers.js",
-		"/E/Projects/Gamedex/Gamedex-Frontend/js/init.js"
+		"/E/Projects/Gamedex/Gamedex-Frontend/js/tmz_ign.js"
 	],
 	"find":
 	{
